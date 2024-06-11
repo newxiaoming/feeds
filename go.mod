@@ -9,4 +9,4 @@ require (
 	github.com/rogpeppe/go-internal v1.9.0 // indirect
 )
 
-replace github.com/gorilla/feeds => github.com/newxiaoming/feeds v0.0.0-20231018112706-51ef1e4dc2a4
+replace github.com/gorilla/feeds => github.com/newxiaoming/feeds v1.1.3
