@@ -36,6 +36,8 @@ type Item struct {
 	Created     time.Time
 	Enclosure   *Enclosure
 	Content     string
+	Poster      string //云掌号rss，文章封面图
+	PubDate     int32
 }
 
 type Feed struct {
